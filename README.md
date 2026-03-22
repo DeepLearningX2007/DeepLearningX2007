@@ -11,5 +11,6 @@
   
 ## 🏆 Achievements
 - NeurIPS - Open Polymer Prediction 2025: Silver  
-- CSIRO - Image2Biomass Prediction: Bronze  
-<img src="https://media.tenor.com/XXXX.gif" width="300"/>
+- CSIRO - Image2Biomass Prediction: Bronze
+- 
+<img src="https://media.tenor.com/xxxxx/xxxxx.gif" width="300"/>
