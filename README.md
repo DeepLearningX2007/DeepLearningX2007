@@ -4,10 +4,11 @@
 🤖 AI / Machine Learning  
 💻 System Development  
 
-## 🔥 Current Focus
-- Time-series modeling
-- Deep Learning (LSTM / Transformer)
-
+## 🧠 Machine Learning
+- Tabular modeling (GBDT)
+- Time-series analysis
+- Image recognition
+  
 ## 🏆 Achievements
 - NeurIPS - Open Polymer Prediction 2025: Silver  
 - CSIRO - Image2Biomass Prediction: Bronze  
