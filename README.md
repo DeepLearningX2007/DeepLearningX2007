@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm DeepLearningX2007
 
-<!--
-**DeepLearningX2007/DeepLearningX2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏅 Kaggle Expert (Silver / Bronze)  
+🤖 AI / Machine Learning  
+💻 System Development  
 
-Here are some ideas to get you started:
+## 🔥 Current Focus
+- Time-series modeling
+- Deep Learning (LSTM / Transformer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+- NeurIPS - Open Polymer Prediction 2025: Silver  
+- CSIRO - Image2Biomass Prediction: Bronze  
