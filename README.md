@@ -12,3 +12,4 @@
 ## 🏆 Achievements
 - NeurIPS - Open Polymer Prediction 2025: Silver  
 - CSIRO - Image2Biomass Prediction: Bronze
+<img src="./boku-no-hero-academia.gif" width="250"/>
